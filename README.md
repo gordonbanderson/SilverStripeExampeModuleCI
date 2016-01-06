@@ -5,12 +5,12 @@
 [![Build Status](https://scrutinizer-ci.com/g/gordonbanderson/SilverStripeExampeModuleCI/badges/build.png?b=master)](https://scrutinizer-ci.com/g/gordonbanderson/SilverStripeExampeModuleCI/build-status/master)
 [![codecov.io](https://codecov.io/github/gordonbanderson/SilverStripeExampeModuleCI/coverage.svg?branch=master)](https://codecov.io/github/gordonbanderson/SilverStripeExampeModuleCI?branch=master)
 
-[![Latest Stable Version](https://poser.pugx.org/weboftalent/mappable/version)](https://packagist.org/packages/weboftalent/mappable)
-[![Latest Unstable Version](https://poser.pugx.org/weboftalent/mappable/v/unstable)](//packagist.org/packages/weboftalent/mappable)
-[![Total Downloads](https://poser.pugx.org/weboftalent/mappable/downloads)](https://packagist.org/packages/weboftalent/mappable)
-[![License](https://poser.pugx.org/weboftalent/mappable/license)](https://packagist.org/packages/weboftalent/mappable)
-[![Monthly Downloads](https://poser.pugx.org/weboftalent/mappable/d/monthly)](https://packagist.org/packages/weboftalent/mappable)
-[![Daily Downloads](https://poser.pugx.org/weboftalent/mappable/d/daily)](https://packagist.org/packages/weboftalent/mappable)
+[![Latest Stable Version](https://poser.pugx.org/weboftalent/ci-example/version)](https://packagist.org/packages/weboftalent/ci-example)
+[![Latest Unstable Version](https://poser.pugx.org/weboftalent/ci-example/v/unstable)](//packagist.org/packages/weboftalent/ci-example)
+[![Total Downloads](https://poser.pugx.org/weboftalent/ci-example/downloads)](https://packagist.org/packages/weboftalent/ci-example)
+[![License](https://poser.pugx.org/weboftalent/ci-example/license)](https://packagist.org/packages/weboftalent/ci-example)
+[![Monthly Downloads](https://poser.pugx.org/weboftalent/ci-example/d/monthly)](https://packagist.org/packages/weboftalent/ci-example)
+[![Daily Downloads](https://poser.pugx.org/weboftalent/ci-example/d/daily)](https://packagist.org/packages/weboftalent/ci-example)
 
 ![codecov.io](https://codecov.io/github/gordonbanderson/SilverStripeExampeModuleCI/branch.svg?branch=master)
 
