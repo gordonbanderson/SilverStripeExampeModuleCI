@@ -1,0 +1,21 @@
+{
+	"name": "weboftalent/ci-example",
+	"description": "Example module showing use of Continuous Integration services",
+	"type": "silverstripe-module",
+	"homepage": "https://github.com/gordonbanderson/SilverStripeExampeModuleCI",
+	"keywords": ["silverstripe", "example", "demo", "Continuous integration",
+				"code coverage", "scrutinizer", "travis"],
+	"license": "BSD-3-Clause",
+	"authors": [
+		{
+			"name": "Gordon Anderson",
+			"email": "gordon.b.anderson@gmail.com"
+		}
+	],
+	"support": {
+		"issues": "http://github.com/gordonbanderson/SilverStripeExampeModuleCI/issues"
+	},
+	"require": {
+		"silverstripe/cms": ">=3.1",
+	}
+}
